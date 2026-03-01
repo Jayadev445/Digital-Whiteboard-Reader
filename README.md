@@ -6,7 +6,7 @@ This project has been made to work only in google colab.
 
 ## Project Summary
 
-The **Digital Whiteboard Reader** is a computer vision-based system designed to read, process, and digitize the content written on whiteboards. This system leverages image processing techniques to identify and extract handwritten text or drawings from an image of a whiteboard, with potential applications in education, presentations, and remote collaboration.
+The **Digital Whiteboard Reader** is a computer vision based system designed to read, process, and digitize the content written on whiteboards. This system leverages image processing techniques to identify and extract handwritten text or drawings from an image of a whiteboard, with potential applications in education, presentations, and remote collaboration.
 
 By automating the task of reading whiteboard content, the project offers a way to save, archive, or enhance legibility for better digital usage. It can serve as a foundation for more advanced applications like real-time lecture transcription, handwriting recognition, or content streaming.
 
