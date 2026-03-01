@@ -39,7 +39,7 @@ By automating the task of reading whiteboard content, the project offers a way t
 - Conversion to grayscale and thresholding
 - Noise removal and edge detection
 - Contour identification for text region isolation
-- Easy integration with OCR tools (like Tesseract) for text extraction (optional extension)
+- Easy integration with OCR tools (like Tesseract) for text extraction
 
 ---
 
